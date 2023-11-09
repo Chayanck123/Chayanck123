@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Food Quality Detection<br>💬 Ask me about  Competitive Coding, Machine Learning & Web Development.
+💬 Ask me about  Competitive Coding, Machine Learning & Web Development.
 
 
 ## 🌐 Socials:
